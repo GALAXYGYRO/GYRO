@@ -1,3 +1,3 @@
-isUserIdAllowed = {
+allowedUserIds = {
 "999",
 }
