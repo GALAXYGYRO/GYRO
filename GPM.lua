@@ -1,4 +1,4 @@
-allowedUserID = {
+sUserIdAllowed = {
 "999",
 "10010",
 }
