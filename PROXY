@@ -79,4 +79,6 @@ allowedUserIds = {
 // Added by Bot
 alloweduserid = {
     "1"
+,
+    "100"
 };
