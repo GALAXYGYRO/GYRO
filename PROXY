@@ -75,10 +75,3 @@ allowedUserIds = {
  "925389",
  "347305",
 }
-
-// Added by Bot
-alloweduserid = {
-    "1"
-,
-    "100"
-};
